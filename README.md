@@ -4,7 +4,7 @@
 
 SpaceTemoc55 is a thrilling Swift-based mobile game where you control **Temoc, the Comet**, and your primary goal is to survive by shooting down incoming enemy projectiles and dodging obstacles. It's a simple yet exciting space dodging game.
 
-
+![temoc_gif](https://github.com/naqvikhan/SpaceTemoc55/assets/57102256/a69447fa-c0ef-4590-b54b-7ddcf0179077)
 
 ## Features
 
